@@ -1,5 +1,10 @@
 <!-- ========================= PAYAL2805 PROFILE README ========================= -->
 
+<!-- 🎉 Welcome GIF -->
+<p align="center"> 
+  <img src="https://github.com/Payal2805/Payal2805/blob/main/Support%20Files/Introduction.gif" width="1000" alt="Welcome GIF"> 
+</p>
+
 <!-- ✨ Animated Header -->
 
 <p align="center">
