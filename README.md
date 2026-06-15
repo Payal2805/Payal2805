@@ -55,7 +55,12 @@
   <img src="https://komarev.com/ghpvc/?username=Payal2805&label=Visitors&color=blue&style=flat-square" alt="visitors" /> 
 </div> <br>
 
+
 <h2 align="center">🐍 My Contributions 🐍</h2>
+
+![GitHub Snake](https://github.com/Payal2805/Payal2805/blob/main/github-contribution-grid-snake.svg)
+
+
 
 ---
 
