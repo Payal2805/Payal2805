@@ -1,24 +1,43 @@
-name: Generate Snake
+
+name: Generate Snake Contribution Grid
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        id: snake
         with:
           github_user_name: Payal2805
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Upload SVG Artifacts
+        uses: actions/upload-artifact@v4
         with:
-          target_branch: output
-          build_dir: dist
+          name: snake-artifacts
+          path: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg
+
+      - name: Commit and Push the SVG Files
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://Payal2805:${{ secrets.GH_TOKEN }}@github.com/Payal2805/Payal2805.git
+          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
+          git commit -m "Updated Snake Contribution Grid (Light & Dark Mode)" || exit 0
+          git push origin main
