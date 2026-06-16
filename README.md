@@ -92,6 +92,51 @@
 
 ---
 
+
+<h2 align="center">🖥️ Projects 🖥️</h2>
+
+<table>
+<tr><th>Python & Machine Learning</th><th>Web Development</th></tr>
+<tr><td>
+
+| Title | Stars | Technologies | Status |
+|--|--|--|--|
+| [**FaceTrack Pro**](https://github.com/Payal2805/FaceTrack-Pro) | <img alt="Stars" src="https://img.shields.io/github/stars/Payal2805/FaceTrack-Pro"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=yellow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat&logo=opencv&logoColor=green) | ✅ Project Complete |
+| [**ElectroStock Pro**](https://github.com/Payal2805/ElectroStock-Pro) | <img alt="Stars" src="https://img.shields.io/github/stars/Payal2805/ElectroStock-Pro"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=yellow) ![SQLite](https://img.shields.io/badge/SQLite-black?style=flat&logo=sqlite&logoColor=blue) | ✅ Project Complete |
+| [**CarVision ML**](https://github.com/Payal2805/CarVision-ML) | <img alt="Stars" src="https://img.shields.io/github/stars/Payal2805/CarVision-ML"/> | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-black?style=flat&logo=tensorflow&logoColor=orange) ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=yellow) | ✅ Project Complete |
+
+</td><td>
+
+| Title | Stars | Technologies | Status |
+|--|--|--|--|
+| [**StyleSphere**](https://github.com/Payal2805/StyleSphere) | <img alt="Stars" src="https://img.shields.io/github/stars/Payal2805/StyleSphere"/> | ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5&logoColor=orange) ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=yellow) | ✅ Project Complete |
+
+</td></tr>
+</table>
+
+<table>
+<tr><th>Programming Collections</th><th>Backend & AI Journey</th></tr>
+<tr><td>
+
+| Title | Stars | Technologies | Status |
+|--|--|--|--|
+| [**PyNova**](https://github.com/Payal2805/PyNova) | <img alt="Stars" src="https://img.shields.io/github/stars/Payal2805/PyNova"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=yellow) | 🚀 Active |
+| [**CppVerse**](https://github.com/Payal2805/CppVerse) | <img alt="Stars" src="https://img.shields.io/github/stars/Payal2805/CppVerse"/> | ![C++](https://img.shields.io/badge/C++-black?style=flat&logo=cplusplus&logoColor=blue) | 🚀 Active |
+| [**CortexC**](https://github.com/Payal2805/CortexC) | <img alt="Stars" src="https://img.shields.io/github/stars/Payal2805/CortexC"/> | ![C](https://img.shields.io/badge/C-black?style=flat&logo=c&logoColor=blue) | 🚀 Active |
+
+</td><td>
+
+| Focus Area | Technologies | Status |
+|--|--|--|
+| Backend Development | Python, Django, REST APIs | 🚀 Learning |
+| Database Management | MySQL, SQLite | 🚀 Learning |
+| Generative AI | LLMs, RAG, LangChain | 🌱 Exploring |
+| Software Engineering | Git, GitHub, Postman | ✅ Active |
+
+</td></tr>
+</table>
+
+
 <!-- 🙏 Final Footer -->
 
 <div align="center">
