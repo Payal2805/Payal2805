@@ -96,47 +96,51 @@
 <h2 align="center">🖥️ Projects 🖥️</h2>
 
 <table>
-<tr><th>Python & Machine Learning</th><th>Web Development</th></tr>
+<tr><th>AI / ML / Generative AI</th><th>Python Applications</th></tr>
 <tr><td>
 
 | Title | Stars | Technologies | Status |
 |--|--|--|--|
-| [**FaceTrack Pro**](https://github.com/Payal2805/FaceTrack-Pro) | <img alt="Stars" src="https://img.shields.io/github/stars/Payal2805/FaceTrack-Pro"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=yellow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat&logo=opencv&logoColor=green) | ✅ Project Complete |
-| [**ElectroStock Pro**](https://github.com/Payal2805/ElectroStock-Pro) | <img alt="Stars" src="https://img.shields.io/github/stars/Payal2805/ElectroStock-Pro"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=yellow) ![SQLite](https://img.shields.io/badge/SQLite-black?style=flat&logo=sqlite&logoColor=blue) | ✅ Project Complete |
-| [**CarVision ML**](https://github.com/Payal2805/CarVision-ML) | <img alt="Stars" src="https://img.shields.io/github/stars/Payal2805/CarVision-ML"/> | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-black?style=flat&logo=tensorflow&logoColor=orange) ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=yellow) | ✅ Project Complete |
+| [**TalentLens**](https://github.com/Payal2805/TalentLens) | [![GitHub stars](https://badgen.net/github/stars/Payal2805/TalentLens)](https://github.com/Payal2805/TalentLens/stargazers) | Python, Django, NLP, Machine Learning, Pandas, Scikit-learn, MySQL | 🚧 Ongoing |
+| [**MeetMind**](https://github.com/Payal2805/MeetMind) | [![GitHub stars](https://badgen.net/github/stars/Payal2805/MeetMind)](https://github.com/Payal2805/MeetMind/stargazers) | Python, OpenAI API, Whisper, LangChain, Streamlit, SQLite | 🚧 Ongoing |
+| [**InterviewPilot**](https://github.com/Payal2805/InterviewPilot) | [![GitHub stars](https://badgen.net/github/stars/Payal2805/InterviewPilot)](https://github.com/Payal2805/InterviewPilot/stargazers) | Python, Django, OpenAI API, LangChain, MySQL | 🚧 Ongoing |
+| [**DebugGenius**](https://github.com/Payal2805/DebugGenius) | [![GitHub stars](https://badgen.net/github/stars/Payal2805/DebugGenius)](https://github.com/Payal2805/DebugGenius/stargazers) | Python, LLMs, LangChain, FastAPI, Vector Database | 🚧 Ongoing |
+| [**KnowBot**](https://github.com/Payal2805/KnowBot) | [![GitHub stars](https://badgen.net/github/stars/Payal2805/KnowBot)](https://github.com/Payal2805/KnowBot/stargazers) | LangChain, RAG, ChromaDB, OpenAI API, Python | 🔮 Planning Phase |
+| [**PulseInsight**](https://github.com/Payal2805/PulseInsight) | [![GitHub stars](https://badgen.net/github/stars/Payal2805/PulseInsight)](https://github.com/Payal2805/PulseInsight/stargazers) | Python, NLP, Sentiment Analysis, Pandas, Scikit-learn | 🔮 Planning Phase |
 
 </td><td>
 
 | Title | Stars | Technologies | Status |
 |--|--|--|--|
-| [**StyleSphere**](https://github.com/Payal2805/StyleSphere) | <img alt="Stars" src="https://img.shields.io/github/stars/Payal2805/StyleSphere"/> | ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5&logoColor=orange) ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=yellow) | ✅ Project Complete |
+| [**FaceTrack**](https://github.com/Payal2805/FaceTrack) | [![GitHub stars](https://badgen.net/github/stars/Payal2805/FaceTrack)](https://github.com/Payal2805/FaceTrack/stargazers) | Python, OpenCV, Face Recognition, MySQL | ✅ Project Complete |
+| [**ElectroStock**](https://github.com/Payal2805/ElectroStock) | [![GitHub stars](https://badgen.net/github/stars/Payal2805/ElectroStock)](https://github.com/Payal2805/ElectroStock/stargazers) | Python, MySQL, Gmail | ✅ Project Complete |
+| [**CarVision**](https://github.com/Payal2805/CarVision) | [![GitHub stars](https://badgen.net/github/stars/Payal2805/CarVision)](https://github.com/Payal2805/CarVision/stargazers) | Python, Machine Learning, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter | ✅ Project Complete |
+| [**PyNova**](https://github.com/Payal2805/PyNova) | [![GitHub stars](https://badgen.net/github/stars/Payal2805/PyNova)](https://github.com/Payal2805/PyNova/stargazers) | Python | 🚀 Active |
+| [**TaskFlow**](https://github.com/Payal2805/TaskFlow) | [![GitHub stars](https://badgen.net/github/stars/Payal2805/TaskFlow)](https://github.com/Payal2805/TaskFlow/stargazers) | Django, Python, REST API, MySQL, Bootstrap | 🚧 Ongoing |
 
 </td></tr>
 </table>
 
 <table>
-<tr><th>Programming Collections</th><th>Backend & AI Journey</th></tr>
+<tr><th>Web Development</th><th>Programming Collections</th></tr>
 <tr><td>
 
 | Title | Stars | Technologies | Status |
 |--|--|--|--|
-| [**PyNova**](https://github.com/Payal2805/PyNova) | <img alt="Stars" src="https://img.shields.io/github/stars/Payal2805/PyNova"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=yellow) | 🚀 Active |
-| [**CppVerse**](https://github.com/Payal2805/CppVerse) | <img alt="Stars" src="https://img.shields.io/github/stars/Payal2805/CppVerse"/> | ![C++](https://img.shields.io/badge/C++-black?style=flat&logo=cplusplus&logoColor=blue) | 🚀 Active |
-| [**CortexC**](https://github.com/Payal2805/CortexC) | <img alt="Stars" src="https://img.shields.io/github/stars/Payal2805/CortexC"/> | ![C](https://img.shields.io/badge/C-black?style=flat&logo=c&logoColor=blue) | 🚀 Active |
+| [**StyleSphere**](https://github.com/Payal2805/StyleSphere) | [![GitHub stars](https://badgen.net/github/stars/Payal2805/StyleSphere)](https://github.com/Payal2805/StyleSphere/stargazers) | HTML5, CSS3, JavaScript, Google Sheets | ✅ Project Complete |
+| [**BudgetWise**](https://github.com/Payal2805/BudgetWise) | [![GitHub stars](https://badgen.net/github/stars/Payal2805/BudgetWise)](https://github.com/Payal2805/BudgetWise/stargazers) | Django, Python, Chart.js, MySQL | 🔮 Planning Phase |
+| [**PulseBoard**](https://github.com/Payal2805/PulseBoard) | [![GitHub stars](https://badgen.net/github/stars/Payal2805/PulseBoard)](https://github.com/Payal2805/PulseBoard/stargazers) | Django, Python, Pandas, Plotly, MySQL | 🔮 Planning Phase |
 
 </td><td>
 
-| Focus Area | Technologies | Status |
-|--|--|--|
-| Backend Development | Python, Django, REST APIs | 🚀 Learning |
-| Database Management | MySQL, SQLite | 🚀 Learning |
-| Generative AI | LLMs, RAG, LangChain | 🌱 Exploring |
-| Software Engineering | Git, GitHub, Postman | ✅ Active |
+| Title | Stars | Technologies | Status |
+|--|--|--|--|
+| [**CppVerse**](https://github.com/Payal2805/CppVerse) | [![GitHub stars](https://badgen.net/github/stars/Payal2805/CppVerse)](https://github.com/Payal2805/CppVerse/stargazers) | C++ | 🚀 Active |
+| [**CortexC**](https://github.com/Payal2805/CortexC) | [![GitHub stars](https://badgen.net/github/stars/Payal2805/CortexC)](https://github.com/Payal2805/CortexC/stargazers) | C | 🚀 Active |
+| [**SupportIQ**](https://github.com/Payal2805/SupportIQ) | [![GitHub stars](https://badgen.net/github/stars/Payal2805/SupportIQ)](https://github.com/Payal2805/SupportIQ/stargazers) | Python, NLP, Machine Learning, FastAPI, MySQL | 🔮 Planning Phase |
 
 </td></tr>
 </table>
-
-
 <!-- 🙏 Final Footer -->
 
 <div align="center">
