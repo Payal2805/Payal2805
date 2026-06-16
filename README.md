@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/payal-jadhav-859192272/"> 
     <img src="https://img.shields.io/badge/LinkedIn-Payal%20Jadhav-0077B5?style=flat-square&logo=linkedin"> 
   </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1NxkwvdD6gMpj3EW3OfXKICbG5wdKx0CK/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1NxkwvdD6gMpj3EW3OfXKICbG5wdKx0CK/view">
     <img src="https://img.shields.io/badge/PDF-Resume-00c853?style=flat-square&logo=adobeacrobatreader&logoColor=white"> 
   </a> &nbsp;&nbsp;&nbsp;
   <a href="mailto:payaljadhav157@gmail.com"> 
